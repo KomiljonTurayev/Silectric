@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name" translatable="false">Elektr sarfi</string>
+    <string name="preferences">Afzalliklar</string>
+    <string name="title_activity_usage">Foydalanish</string>
+    <string name="total">Jami</string>
+    <string name="electric_fee_example">$ 0</string>
+    <string name="electric_usage_example" translatable="false">0 kWh</string>
+    <string name="days">Kunlar</string>
+    <string name="activity_per_day">Kunlik faoliyat</string>
+    <string name="add_activity" >Faoliyat qo\'shish</string>
+    <string name="electronic">Elektron</string>
+    <string name="number">Raqam</string>
+    <string name="usage_day">Foydalanish / kun</string>
+    <string name="electronic_name">Elektronika nomi</string>
+    <string name="template_daily_usage">Shablondan foydalanish / kun</string>
+    <string name="basic_charge">Asosiy to\'lov</string>
+    <string name="energy_charge">To\'lov kWh</string>
+    <string name="others_fee">Boshqa to\'lovlar</string>
+    <string name="electronic_template">Elektron shablon</string>
+    <string name="mode">Rejim</string>
+    <string name="double_score" translatable="false">" : "</string>
+    <string name="watt" translatable="false">Watt</string>
+    <string name="hours">Soatlar</string>
+    <string name="minutes">Daqiqalar</string>
+    <string name="default_number_electronic" translatable="false">1</string>
+    <string name="number_of_items">Mahsulotlar soni</string>
+    <string name="save">Saqlash</string>
+    <string name="currency_options">Valyuta</string>
+</resources>
